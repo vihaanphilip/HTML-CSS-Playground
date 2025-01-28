@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#banner{
+    width: 100%;
+}
+
+.location{
+    text-align: center;
+    color: red;
+}
