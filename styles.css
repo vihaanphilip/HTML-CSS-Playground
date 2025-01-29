@@ -71,3 +71,18 @@ h3{
 .details{
     float: right;
 }
+
+#footer{
+    background-color: ghostwhite;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+#footer-links{
+    list-style: none;
+}
+
+#footer-links li{
+    display: inline;
+    margin-right: 8px;
+}
