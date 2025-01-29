@@ -76,6 +76,7 @@ h3{
     background-color: ghostwhite;
     padding: 8px;
     margin-top: 16px;
+    text-align: center;
 }
 
 #footer-links{
@@ -84,5 +85,9 @@ h3{
 
 #footer-links li{
     display: inline;
-    margin-right: 8px;
+    margin: 0 16px;
+}
+
+.copyright{
+    color: grey;
 }
