@@ -16,13 +16,40 @@ h1 {
 
 #banner{
     width: 100%;
+    object-fit: cover;
 }
 
 #logo{ 
     height: 80px;
 }
 
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+#description{
+    width: 70%;
+    padding-right: 16px;
+}
+
+#cat{
+    width: 30%;
+    max-width: 170px;
+}
+
+#cat-image{
+    border-radius: 5px;
+    width: 100%;
+}
+
 .location{
     text-align: center;
     color: red;
+}
+
+h2{
+    text-align: center;
 }
