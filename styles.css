@@ -1,10 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
 h1 {
     text-align: center;
     color: darkblue;
 }
 
+#navbar{
+    padding: 8px;
+    margin: 0;
+}
+
 #banner{
     width: 100%;
+}
+
+#logo{ 
+    height: 80px;
 }
 
 .location{
